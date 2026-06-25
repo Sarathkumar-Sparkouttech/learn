@@ -1,5 +1,5 @@
-🌐 Portfolio Website (HTML + CSS)
-📁 Project Structure                         
+Portfolio Website (HTML + CSS)
+Project Structure                         
 
 🌐 Personal Portfolio Website
   📌 About the Project
