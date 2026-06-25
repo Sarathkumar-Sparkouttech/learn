@@ -29,4 +29,4 @@ This project was created as part of my learning journey in front-end web develop
 
 📞 Contact
 Email: your-sarathkumar@sparkouttech.com
-GitHub: https://sarathkumar-sparkouttech.github.io/learn/-sarathkumar-sparkottech
+GitHub: https://sarathkumar-sparkouttech.github.io/learn/
