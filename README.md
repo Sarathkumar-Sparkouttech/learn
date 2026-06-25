@@ -28,5 +28,5 @@ This project was created as part of my learning journey in front-end web develop
 (Add screenshot of your website here)
 
 📞 Contact
-Email: your-email@example.com
-GitHub: https://github.com/your-username
+Email: your-sarathkumar@sparkouttech.com
+GitHub: https://sarathkumar-sparkouttech.github.io/learn/-sarathkumar-sparkottech
